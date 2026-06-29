@@ -1,3 +1,3 @@
 # Project Title: dl-genai-project-26-t2
-Name: Mayank Sharma <br>
+Name: Mayank Sharma  
 ID: 21f3002259
